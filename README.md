@@ -1,4 +1,4 @@
-This is a landing page sample
+## This is a landing page sample
 
 Responsive on mobile: ❌
 
